@@ -1,0 +1,13 @@
+{
+  "name": "zwiftracing",
+  "version": "0.1.0",
+  "main": "main.js",
+  "repository": "https://github.com/MarkRidings/zwiftracing",
+  "author": "Mark Ridings",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "sqlite3": "^3.1.13",
+    "zwift-mobile-api": "^0.3.5"
+  }
+}
